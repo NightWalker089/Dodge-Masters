@@ -45,7 +45,7 @@ if width >= height:
 else:
     win = pygame.display.set_mode(SCREEN, pygame.NOFRAME | pygame.SCALED | pygame.FULLSCREEN)
 
-pygame.display.set_caption("Angry Walls")
+pygame.display.set_caption("DODGE MASTERS")
 clock = pygame.time.Clock()
 FPS = 45
 
